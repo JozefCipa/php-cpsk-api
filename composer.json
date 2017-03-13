@@ -1,0 +1,9 @@
+{
+    "name": "jozefcipa/cps.sk-api",
+    "description": "Api to fetch 3 nearest departures from cp.sk",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "license": "MIT"
+}
