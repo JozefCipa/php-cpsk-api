@@ -1,7 +1,7 @@
 {
-    "name": "jozefcipa/cps.sk-api",
+    "name": "jozefcipa/cp.sk-api",
     "description": "Api to fetch 3 nearest departures from cp.sk",
-    "type": "project",
+    "type": "library",
     "repositories": [
       {
         "type": "git",
