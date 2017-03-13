@@ -3,6 +3,8 @@
     "description": "Api to fetch 3 nearest departures from cp.sk",
     "type": "project",
     "version": "1.0.0",
+    "minimum-stability": "dev",
+    "prefer-stable" : true,
     "repositories": [
       {
         "type": "git",
